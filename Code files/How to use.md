@@ -1,7 +1,7 @@
 # HOW TO USE THESE FILES
 
 1. Download all files in same folder
-2. open these files in VS Code
+2. open the folder in VS Code
 3. Copy and paste :
    
     pip install -r requirements.txt
