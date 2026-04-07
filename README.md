@@ -148,7 +148,7 @@ Improving performance is another area of focus.
 
 The application can be extended to quantum systems.
 
-##
+## Conclusion
 
 The Quantum Chemistry Suite aims to make quantum mechanics easier to understand.
 
